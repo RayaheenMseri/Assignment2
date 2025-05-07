@@ -1,4 +1,3 @@
-````markdown
 # ❤️ Favorite Icon Toggle (Flutter + GetX)
 
 This Flutter project demonstrates how to toggle a heart icon between outlined and filled using **GetX** for reactive state management.
